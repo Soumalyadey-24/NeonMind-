@@ -40,3 +40,29 @@ It listens to you, thinks, and speaks back — all while reacting visually throu
 ```bash
 git clone https://github.com/Soumalyadey-24/NeonMind.git
 cd NeonMind
+
+
+## | State     | Visual                |
+| --------- | --------------------- |
+| Idle      | Soft glowing orb      |
+| Listening | Violet neon pulse     |
+| Speaking  | Yellow energetic glow |
+
+
+## 🔮 Future Improvements
+- Audio-amplitude-based wave sync
+- True traveling sine wave background
+- Mobile optimization
+- Deployment to cloud
+
+
+## 👤 Author
+
+Soumalya Dey  
+Frontend & AI UI Developer  
+GitHub: https://github.com/Soumalyadey-24
+
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub and feel free to fork or contribute!
